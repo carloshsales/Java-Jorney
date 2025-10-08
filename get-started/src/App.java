@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class App {
+
+    private final static String WELCOME_MESSAGE = "Hello World!";
+
     public static void main(String[] args) throws Exception {
         //One line comment
         /**
